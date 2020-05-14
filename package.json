@@ -2,9 +2,9 @@
   "name": "profile-page-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ramesh.github.io/me",
+  "homepage": "https://Rameshchinna-coder.github.io/Rameshchinna-coder.github.io",
   "dependencies": {
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^2.2.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-scripts": "2.1.5",
